@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header {
+    width: 1000px;
+    height: 100px;
+
+}
+
+nav {
+    margin-top: 10px;
+    width: 1000px;
+    height: 35px;
+    border-top: solid 1px blue;
+
+    border-bottom: solid 1px blue;
+}
+
+.menu {
+    padding: 10px;
+    margin-left: 10px;
+    float: left;
+    color: orange;
+    text-decoration: none;
+}
+
+article {
+    margin-top: 20px;
+    float: left;
+    width: 55%;
+    height: 300px;
+}
+
+#title {
+    margin-left: 20px;
+    font-size: 20px;
+    color: blue;
+    margin-bottom: 10px
+}
+
+.dk {
+
+    border: solid 1px blue
+}
+
+aside {
+
+    padding-left: 20px;
+    float: left;
+    height: 300px;
+    width: 40%;
+    margin: 10px;
+}
+footer{
+    width: 1000px;
+    height: 100px;
+}
+
+form {
+    padding: 20px;
+}
+
+.ckb{
+/*    margin: 10px;*/
+}
+.info {
+    float: left;
+
+}
+
+.row {
+    margin-top: 20px
+}
+
+.inp {
+    width: 350px;
+}
+
+.tp{
+    margin-left: 40px;
+}
+.kd{
+    margin-top: 600px
+}
+#ft{
+    text-align: center
+}
+.bt{
+ 
+    color: blue;
+}
+#btt{
+    margin-left: 300px;
+} 
+.ckbb{
+    margin-left: 20px;
+}
